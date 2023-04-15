@@ -1,6 +1,6 @@
 # CSE523 Machine Learning 2023 The_Learning_Machines
 ## IntrusionDetection
-**Introduction**  
+### Introduction  
 
 The process of detecting anomalies is crucial in network
 defense as it provides security administrators with advanced
