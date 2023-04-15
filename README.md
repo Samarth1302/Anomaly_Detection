@@ -25,3 +25,9 @@ The results we obtained are as follows:
 [k-Nearest Neigbours Accuracy plot](/Results/KNN.png)  
 [Quadratic Discriminant Analysis Accuracy plot](/Results/QDA.png)  
 [Gaussian Naive Bayes Accuracy plot](/Results/GNB.png)  
+
+### References
+
+- [1] “Toward generating a new intrusion detection dataset and intrusion TRAFC ...” [Online]. Available: https://rb.gy/9lirab. [Accessed: 11-Mar-2023]. 
+- [2] “A review on imbalanced data handling using undersampling and oversampling technique,” International Journal of Recent Trends in Engineering and Research, vol. 3, no. 4, pp. 444–449, 2017.
+
