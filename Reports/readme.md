@@ -1,2 +1,4 @@
-This folder contains the Mid-Semester and End-Semester reports of the Project. The Weekly Reports folder comprises of the
-reports that indicate the weekly progress of the group for this project.
+This folder contains: 
+- Mid-Semester report
+- End-Semester reports
+- The Weekly Reports of the project
