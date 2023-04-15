@@ -17,3 +17,7 @@ attacks: DoS Hulk, DDoS, PortScan, and DoS GoldenEye. We
 implement various machine learning classifiers on our dataset
 and analyze their performance to classify the attacks.  
 
+### Results
+
+The results we obtained are as follows:
+[Random Forest Accuracy plot]()
