@@ -28,8 +28,8 @@ The results we obtained are as follows:
 [Maximum Accuracy for every algortihm](/Results/Best_of_every.png)
 ### References
 
-- [1] “Toward generating a new intrusion detection dataset and intrusion TRAFC ...” [Online]. Available: https://rb.gy/9lirab. [Accessed: 11-Mar-2023]. 
-- [2] “A review on imbalanced data handling using undersampling and oversampling technique,” International Journal of Recent Trends in Engineering and Research, vol. 3, no. 4, pp. 444–449, 2017.
-- [3]  V. M. Deolindo, B. L. Dalmazo, M. V. B. da Silva, L. R. B. de Oliveira, A. de B. Silva, L. Z. Granville, L. P. Gaspary, and J. C. Nobre, “Using quadratic discriminant analysis by intrusion detection systems for port scan and slowloris attack classification.”. [Accessed: 31-Mar-2023].
-- [4] Yoshifumimiya, “Feature selection using ANOVA,” Kaggle, 18-Oct-2022. [Online]. Available: https://www.kaggle.com/code/yoshifumimiya/feature-selection-using-anova. [Accessed: 23-Mar-2023]. 
+- “Toward generating a new intrusion detection dataset and intrusion TRAFC ...” [Online]. Available: https://rb.gy/9lirab. [Accessed: 11-Mar-2023]. 
+- “A review on imbalanced data handling using undersampling and oversampling technique,” International Journal of Recent Trends in Engineering and Research, vol. 3, no. 4, pp. 444–449, 2017.
+- V. M. Deolindo, B. L. Dalmazo, M. V. B. da Silva, L. R. B. de Oliveira, A. de B. Silva, L. Z. Granville, L. P. Gaspary, and J. C. Nobre, “Using quadratic discriminant analysis by intrusion detection systems for port scan and slowloris attack classification.”. [Accessed: 31-Mar-2023].
+- Yoshifumimiya, “Feature selection using ANOVA,” Kaggle, 18-Oct-2022. [Online]. Available: https://www.kaggle.com/code/yoshifumimiya/feature-selection-using-anova. [Accessed: 23-Mar-2023]. 
 
