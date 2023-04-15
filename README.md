@@ -1,5 +1,5 @@
 # IntrusionDetection
-**Introduction and Problem Statement**  
+**Introduction**  
 
 The process of detecting anomalies is crucial in network
 defense as it provides security administrators with advanced
