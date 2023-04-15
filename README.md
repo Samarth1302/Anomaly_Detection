@@ -19,5 +19,9 @@ and analyze their performance to classify the attacks.
 
 ### Results
 
-The results we obtained are as follows:
-[Random Forest Accuracy plot]()
+The results we obtained are as follows:  
+
+[Random Forest Accuracy plot](/Results/RFA.png)  
+[k-Nearest Neigbours Accuracy plot](/Results/KNN.png)  
+[Quadratic Discriminant Analysis Accuracy plot](/Results/QDA.png)  
+[Gaussian Naive Bayes Accuracy plot](/Results/GNB.png)  
