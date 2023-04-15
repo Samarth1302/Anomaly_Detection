@@ -1,5 +1,5 @@
 # CSE523 Machine Learning 2023 The_Learning_Machines
-## IntrusionDetection
+## Anomaly Detection
 ### Introduction  
 
 The process of detecting anomalies is crucial in network
