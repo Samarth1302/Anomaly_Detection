@@ -25,7 +25,7 @@ The results we obtained are as follows:
 [k-Nearest Neigbours Accuracy plot](/Results/KNN.png)  
 [Quadratic Discriminant Analysis Accuracy plot](/Results/QDA.png)  
 [Gaussian Naive Bayes Accuracy plot](/Results/GNB.png)  
-
+[Maximum Accuracy for every algortihm](/Results/Best_of_every.png)
 ### References
 
 - [1] “Toward generating a new intrusion detection dataset and intrusion TRAFC ...” [Online]. Available: https://rb.gy/9lirab. [Accessed: 11-Mar-2023]. 
