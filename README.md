@@ -34,4 +34,4 @@ The results we obtained are as follows:
 - V. M. Deolindo, B. L. Dalmazo, M. V. B. da Silva, L. R. B. de Oliveira, A. de B. Silva, L. Z. Granville, L. P. Gaspary, and J. C. Nobre, “Using quadratic discriminant analysis by intrusion detection systems for port scan and slowloris attack classification.”. [Accessed: 31-Mar-2023].
 - Yoshifumimiya, “Feature selection using ANOVA,” Kaggle, 18-Oct-2022. [Online]. Available: https://www.kaggle.com/code/yoshifumimiya/feature-selection-using-anova. [Accessed: 23-Mar-2023]. 
 
-[Poster](/Poster/Anomaly_Detection_System.png)
+[Poster](/Poster/Anomaly_Detection_System.png?raw=true)
